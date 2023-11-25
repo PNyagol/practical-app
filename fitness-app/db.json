@@ -1,0 +1,178 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "exercise": "Push-up",
+      "duration": 10,
+      "date": "2023-11-25",
+      "notes": "Feeling strong today!",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 2,
+      "exercise": "Running",
+      "duration": 30,
+      "date": "2023-11-25",
+      "notes": "Nice jog in the park.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 3,
+      "exercise": "Yoga",
+      "duration": 20,
+      "date": "2023-11-26",
+      "notes": "Relaxing session.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 4,
+      "exercise": "Squat",
+      "duration": 15,
+      "date": "2023-11-27",
+      "notes": "Leg day workout.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 5,
+      "exercise": "Plank",
+      "duration": 5,
+      "date": "2023-11-28",
+      "notes": "Quick core exercise.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 6,
+      "exercise": "Cycling",
+      "duration": 45,
+      "date": "2023-11-29",
+      "notes": "Outdoor cycling adventure.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 7,
+      "exercise": "Deadlift",
+      "duration": 25,
+      "date": "2023-11-30",
+      "notes": "Strength training.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 8,
+      "exercise": "Swimming",
+      "duration": 30,
+      "date": "2023-12-01",
+      "notes": "Enjoyed a swim in the pool.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 9,
+      "exercise": "Pilates",
+      "duration": 15,
+      "date": "2023-12-02",
+      "notes": "Focused on core strength.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 10,
+      "exercise": "Jump Rope",
+      "duration": 10,
+      "date": "2023-12-03",
+      "notes": "Fun cardio workout.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 11,
+      "exercise": "Bicep Curl",
+      "duration": 12,
+      "date": "2023-12-04",
+      "notes": "Arm day workout.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 12,
+      "exercise": "Rowing",
+      "duration": 20,
+      "date": "2023-12-05",
+      "notes": "Rowing machine session.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 13,
+      "exercise": "Lunges",
+      "duration": 18,
+      "date": "2023-12-06",
+      "notes": "Leg workout.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 14,
+      "exercise": "HIIT",
+      "duration": 15,
+      "date": "2023-12-07",
+      "notes": "High-intensity interval training.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 15,
+      "exercise": "Stretching",
+      "duration": 8,
+      "date": "2023-12-08",
+      "notes": "Flexibility routine.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 16,
+      "exercise": "Boxing",
+      "duration": 25,
+      "date": "2023-12-09",
+      "notes": "Boxing workout.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 17,
+      "exercise": "Kettlebell Swing",
+      "duration": 20,
+      "date": "2023-12-10",
+      "notes": "Kettlebell exercise.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 18,
+      "exercise": "Hiking",
+      "duration": 60,
+      "date": "2023-12-11",
+      "notes": "Nature hike.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 19,
+      "exercise": "Gymnastics",
+      "duration": 30,
+      "date": "2023-12-12",
+      "notes": "Gymnastic routine.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "id": 20,
+      "exercise": "Tai Chi",
+      "duration": 15,
+      "date": "2023-12-13",
+      "notes": "Mindful Tai Chi practice.",
+      "img": "https://www.123rf.com/photo_143554596_treadmill-sportive-woman-running-equipment-hand-drawn-vector-illustration-in-cartoon-comic-style.html"
+    },
+    {
+      "exercise": "Cardio and Heavy Lifting",
+      "duration": "60",
+      "date": "2023-11-26",
+      "notes": "Cardio and Heavy Lifting are some of my best mode of burning calories",
+      "id": 21
+    },
+    {
+      "exercise": "Tredmill",
+      "duration": "30",
+      "date": "2023-11-22",
+      "notes": "Very good for burning fat",
+      "id": 22
+    }
+  ]
+}

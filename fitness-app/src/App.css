@@ -1,0 +1,163 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* css for increasing height of <main> starts here*/
+
+main {
+  height: 2500px; 
+  padding: 20px; 
+  box-sizing: border-box;
+}
+
+/* css for increasing height of <main> ends here*/
+
+header {
+  position: sticky;
+  top: 0;
+  background-color: #333;
+  z-index: 1000;
+}
+
+
+/* style for footer starts here*/
+
+footer {
+  background-color: #462d1d; 
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff; 
+}
+
+footer p {
+  margin: 10px 0; 
+}
+
+footer ul {
+  list-style: none; 
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+footer li {
+  margin: 0 15px;
+}
+
+footer a {
+  color: #fff; 
+  text-decoration: none; 
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* style for footer ends here */
+
+
+/* stle for WorkoutForm starts here */
+.workout-form-container {
+  width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #e01a1a92; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.workout-form-container h3 {
+  text-align: center;
+  color: #302222;
+}
+
+.workout-form-container Button {
+  display: block;
+  margin: 0 auto;
+}
+
+/* style for WorkoutForm ends here */
+
+
+/* style for Contacts starts here */
+
+.contact-container {
+  background-color: #e01a1a92; 
+  padding: 20px;
+  border-radius: 8px;
+  width: 800px;
+}
+
+.contact-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-container ul li {
+  margin-bottom: 5px;
+}
+
+.contact-container a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-container h3 {
+  color: #333;
+}
+
+/* style for Contacts ends here */
+
+
+
+/* style for WorkoutCardList Container begins */
+.workout-card-container {
+  display: flex;
+  flex-wrap: wrap; 
+
+}
+
+.workout-card-container > div {
+  margin: 25px 30px 25px 0; /* top right bottom left */
+}
+
+/* style for WorkoutCardList Container ends */
